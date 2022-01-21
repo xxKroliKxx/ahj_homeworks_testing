@@ -1,0 +1,2 @@
+# ahj_homeworks_testing [![Build status](https://ci.appveyor.com/api/projects/status/st3g14fn7m65kt63?svg=true)](https://ci.appveyor.com/project/xxKroliKxx39311/ahj-homeworks-events-1)
+https://xxkrolikxx.github.io/ahj_homeworks_testing/
