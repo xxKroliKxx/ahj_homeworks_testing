@@ -1,2 +1,2 @@
-# ahj_homeworks_testing [![Build status](https://ci.appveyor.com/api/projects/status/st3g14fn7m65kt63?svg=true)](https://ci.appveyor.com/project/xxKroliKxx39311/ahj-homeworks-events-1)
+# ahj_homeworks_testing [![Build status](https://ci.appveyor.com/api/projects/status/m385s759i2wrlo2q/branch/master?svg=true)](https://ci.appveyor.com/project/xxKroliKxx39311/ahj-homeworks-testing/branch/master)
 https://xxkrolikxx.github.io/ahj_homeworks_testing/
